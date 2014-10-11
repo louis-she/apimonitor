@@ -1,4 +1,7 @@
 apimonitor (more than urlwatch)
 ===============================
 
-well documented in config.ini 
+usage: apimonitor.py config.ini
+
+well documented in config.ini
+
